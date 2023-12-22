@@ -1,3 +1,20 @@
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
+</div>
+
+<h1 align="center">Hey, My name is Raghuwansh Kumar Singh</h2>
+
+### Welcome to my GitHub profile:
+
+- 🌱 **Full Stack Web Developer**
+
+- 📩 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js ,Typescript, Express, MongoDB, Chakra-UI, DSA**.
+
+- 📫 How to reach me **wansh786@gmail.com**
+
+- 📋Visit My <a href=https://wansh786.github.io//>**Portfolio**<a>
+   
+- 📑Know More About me <a href="https://test-resume.masaischool.com/dashboard/profile/?resumeId=652c2bc53daf08dca2570a9a&profileId=self&selectedTemplate=TwoColumnMinimal">**Resume**<a>
 # 💫 About Me:
 Highly proficient MERN Stack developer with a robust foundation in web development through completion of a comprehensive 1200+ hour coding course. Demonstrated ability to deliver innovative solutions through solo and collaborative project work. Adept at combining technical prowess with effective communication and problem-solving skills.
 
